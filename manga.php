@@ -11,6 +11,9 @@
 </head>
 
 <body>
+<div class="logo">
+    <a href="index.php"><img class="imgLogoPages" src="images/logo.png" alt="logo W. animes"></a>
+  </div>
   <div class="container">
     <div class="newCard">
       <h2><?php echo ($animePage->title); ?></h2>
