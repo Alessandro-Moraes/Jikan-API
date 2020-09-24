@@ -1,7 +1,7 @@
 <?php
 
 $getUrl = explode('/', $_SERVER['REQUEST_URI']);
-$getType = explode('.', $getUrl[4]);
+$getType = explode('.', $getUrl[2]);
 
 $id = explode('=', $_SERVER['REQUEST_URI']);
 

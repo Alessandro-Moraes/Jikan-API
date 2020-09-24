@@ -11,7 +11,7 @@
 </head>
 
 <body>
-<div class="logo">
+  <div class="logo">
     <a href="index.php"><img class="imgLogoPages" src="images/logo.png" alt="logo W. animes"></a>
   </div>
   <div class="container">
